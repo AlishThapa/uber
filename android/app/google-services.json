@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722596258545",
+    "project_id": "uber-copy-app",
+    "storage_bucket": "uber-copy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722596258545:android:99aaf834aa3434c5cf7f50",
+        "android_client_info": {
+          "package_name": "com.alish.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722596258545-i701q35bm59ldr6arr5ljaml6divlch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MQTVetp2RrpDybIj2H6f_kGidCjCXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722596258545-i701q35bm59ldr6arr5ljaml6divlch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
